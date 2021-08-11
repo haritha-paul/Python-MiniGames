@@ -11,4 +11,8 @@ Python can be used for building mini games and visuals and the main modules used
 * Rainbow Spirals
 * Mini project - Cherry Blossom Tree Wallpaper
 
+## Tkinter Tutorials:
+* Scribbling Rectangles
+* Fill Triangles
+
 
