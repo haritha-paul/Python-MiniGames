@@ -15,4 +15,7 @@ Python can be used for building mini games and visuals and the main modules used
 * Scribbling Rectangles
 * Fill Triangles
 
+## Mini Project - Bounce!
+* A mini ball and paddle game using Tkinter and Turtle in Python.
+
 
