@@ -22,6 +22,6 @@ Python can be used for building mini games and visuals and the main modules used
 * Snake Game
 * Space Invaders
 * Flappy Bird
-* Platformer
+
 
 
