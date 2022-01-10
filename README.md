@@ -18,4 +18,10 @@ Python can be used for building mini games and visuals and the main modules used
 ## Mini Project - Bounce!
 * A mini ball and paddle game using Tkinter and Turtle in Python.
 
+## PyGame Tutorials:
+* Snake Game
+* Space Invaders
+* Flappy Bird
+* Platformer
+
 
